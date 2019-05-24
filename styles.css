@@ -12,6 +12,8 @@ header{
   background-color: yellow;
   opacity: 0.5;
   width: 100%;
+  top: 0;
+  margin: 0;
 }
 nav>ul{
   padding-left: 1000px;
@@ -21,15 +23,20 @@ h1{
   text-align: center;
   padding-top: 20%;
   color: yellow;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 60px;
 }
 #bg{
   background-image: url("https://wallpapercave.com/wp/zuiHX0K.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 700px;
+  margin-top: 6%;
 }
 h2{
   text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 40px;
 }
 .res{
   text-align: center;
@@ -37,4 +44,12 @@ h2{
 .maseno,.moringa{
   display: flex;
   flex-direction: row;
+}
+footer{
+  text-align: center;
+  background-color: grey;
+  margin-bottom: 0;
+}
+.con{
+  padding: 20px;
 }
