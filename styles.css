@@ -17,12 +17,10 @@ nav>ul{
   padding-left: 1000px;
   padding-top: 20px;
 }
-body{
-  margin: 0;
-}
 h1{
   text-align: center;
   padding-top: 20%;
+  color: yellow;
 }
 #bg{
   background-image: url("https://wallpapercave.com/wp/zuiHX0K.jpg");
@@ -30,7 +28,13 @@ h1{
   background-repeat: no-repeat;
   height: 700px;
 }
-.deno{
-  margin-left: auto;
-  margin-right: auto;
+h2{
+  text-align: center;
+}
+.res{
+  text-align: center;
+}
+.maseno,.moringa{
+  display: flex;
+  flex-direction: row;
 }
