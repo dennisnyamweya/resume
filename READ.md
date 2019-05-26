@@ -6,7 +6,7 @@
  acts as a curriculum vitae for my skills an abilities.You can view it to know of my skills and my specialty
  where I can make a required service.
 ## Setup/Installation Requirements
-* git clone
+* git clone https://github.com/dennisnyamweya/resume.git
 * cd resume
 * open index.html from a browser
 ## Known Bugs
