@@ -12,7 +12,8 @@
 ## Known Bugs
 Please if you note any bug,feel free to suggest a way to solve it.
 ## Technologies Used
-I used HTML and CSS language to build the resume website.I used atom to wrie codes.
+I used HTML and CSS language to build the resume website.I used atom to write codes.The structure was built using
+HTML and styling with CSS.
 ## Support and contact details
 Please if you encounter any problem feel free to share it with me and notify me of any suggested solutions you
 may have.
