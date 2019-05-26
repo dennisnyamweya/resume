@@ -3,7 +3,7 @@
 #### By **{List of contributors}**
 ## Description
  This projects displays my skills,education and experience that I have in the technology sector.This website
- acts as a curriculum vitae for my skills an abilities.You can view it to know of my skills and my specialised areas
+ acts as a curriculum vitae for my skills an abilities.You can view it to know of my skills and my specialty 
  where I can make a required service.
 ## Setup/Installation Requirements
 * git clone
