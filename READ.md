@@ -2,18 +2,20 @@
 #### A website detailing my skills,education and experience.,24th May 2019
 #### By **{List of contributors}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+ This projects displays my skills,education and experience that I have in the technology sector.This website
+ acts as a curriculum vitae for my skills an abilities.You can view it to know of my skills and my specialised areas
+ where I can make a required service.
 ## Setup/Installation Requirements
 * git clone
 * cd resume
 * open index.html from a browser
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+Please if you note any bug,feel free to suggest a way to solve it.
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+I used HTML and CSS language to build the resume website.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+Please if you encounter any problem feel free to share it with me and notify me of any suggested solutions you
+may have.
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {2019} **MIT**
