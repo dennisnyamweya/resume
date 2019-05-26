@@ -41,7 +41,7 @@ h2{
 .res{
   text-align: center;
 }
-.maseno,.moringa{
+.maseno,.moringa,footer{
   display: flex;
   flex-direction: row;
 }
@@ -55,4 +55,7 @@ footer{
 }
 nav>ul>li>a{
   text-decoration: none;
+}
+footer{
+  text-align: center;
 }
